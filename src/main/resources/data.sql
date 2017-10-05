@@ -1,0 +1,10 @@
+INSERT INTO book(name,author,price) VALUES ('Spring In Action:Covers Spring 3.0','Craig Walls', 400);
+INSERT INTO book(name,author,price) VALUES ('Spring Batch In Action','Arnaud Cogoluegnes', 500);
+INSERT INTO book(name,author,price) VALUES ('Spring Book','Rod', 300);
+INSERT INTO book(name,author,price) VALUES ('Java Book','test', 100);
+INSERT INTO book(name,author,price) VALUES ('Spring Boot Application','test', 200);
+INSERT INTO book(name,author,price) VALUES ('Learn Spring Data JPA','test', 300);
+INSERT INTO book(name,author,price) VALUES ('Hibernat in Action','Gavin King', 300);
+INSERT INTO book(name,author,price) VALUES ('JSF in Action','Kit', 400);
+INSERT INTO book(name,author,price) VALUES ('Java Interview Questions','Subramanian', 450);
+INSERT INTO book(name,author,price) VALUES ('Java Complete Reference','Herbert', 450);
